@@ -1,4 +1,4 @@
-# spatial-data-course
+# spatial-data-processing
 
 
 
