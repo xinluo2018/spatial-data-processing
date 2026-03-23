@@ -1,13 +1,10 @@
 __pycache__/
 .vscode
-data/rsimg/*
-data/vector/*
-data/data-section-1/*
-data/data-section-2/*
-data/data-section-3/*
+data/
 homework
 **/.DS_Store
 **/*.docx
 **/**/**/._*
 课程框架*.docx
+课程大纲*.docx
 课程考核记录/
